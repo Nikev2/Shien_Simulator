@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "nikev23",
+  "version": "${version}",
+  "name": "ChildLabor",
+  "description": "Go to the website to see the fuggin description",
+  "authors": ["nikev23"],
+  "contact": {
+    "repo": "https://github.com/evans_zq7cgrj/untitled"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/nikev23/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "net.nikev2.nikev23.client.ChildLaborClient"
+    ],
+    "main": [
+      "net.nikev2.nikev23.ChildLabor"
+    ]
+  },
+  "mixins": [
+    "nikev23.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.3",
+    "fabric": "*",
+    "minecraft": ">=1.19.4 <=1.20.1"
+  }
+}
