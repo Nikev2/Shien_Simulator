@@ -77,3 +77,12 @@ I suggest using winrar or any zip file manager that allows you to edit and save 
 9. Open ```Config.class``` delete the old config code and paste your config code.
 10. Close notepad and update the archive (Winrar prompts you I don't know how it works on the other software)
 11. Boom you went through the torture to edit the config file.  
+
+
+
+##open source info##
+
+use this code to to your hearts content as long as you
+give me credit in comments or something.
+contributing is welcomed as this is my first mod
+and have alot of stuff to do
