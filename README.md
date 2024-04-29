@@ -69,7 +69,7 @@ This mod has a very tricky way of configuring it it requires you to have basic k
 
 I suggest using winrar or any zip file manager that allows you to edit and save in archives
 
-1. Download the [Config File](https://drive.google.com/uc?export=download&id=1CAhe05ND6B5dq5s2H-kRczJgrIDu1Krf) from the link. Its a direct link it should say you downloaded a file called Config.jar
+1. Download the [Config File](https://drive.google.com/uc?export=download&id=1CAhe05ND6B5dq5s2H-kRczJgrIDu1Krf) from the link. Its a direct link it should say you downloaded a file called Config.java
 2. Open the file it should have a layout of all the settings what only matters are the true and false words on it change those to your hearts content. Do not change anything else on it. Also to state that you should use a code editor like vs code or notepad++ so you don't get confused by the comment code.
 3. Save it and close what text editor you used to configure it and open command prompt.
 4. Left click on the directory your config file is stored and click on "Open in terminal" with the powershell icon.
