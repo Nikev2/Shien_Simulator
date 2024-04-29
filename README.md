@@ -62,9 +62,9 @@ Directions: Right click a baby villager with a chain to put it in child labor mo
 
 ### CONFIG INFO
 
-## New Version:
+#### New Version:
 use midnight lib config
-## Manual (OLD):
+#### Manual (OLD):
 This mod has a very tricky way of configuring it it requires you to have basic knowlage of using a command terminal. This is a step by step guide on how to edit the config file (windows 11/10). If your on linux you could probaly interpret this youself
 
 I suggest using winrar or any zip file manager that allows you to edit and save in archives
