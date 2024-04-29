@@ -73,7 +73,7 @@ I suggest using winrar or any zip file manager that allows you to edit and save 
 2. Open the file it should have a layout of all the settings what only matters are the true and false words on it change those to your hearts content. Do not change anything else on it. Also to state that you should use a code editor like vs code or notepad++ so you don't get confused by the comment code.
 3. Save it and close what text editor you used to configure it and open command prompt.
 4. Left click on the directory your config file is stored and click on "Open in terminal" with the powershell icon.
-5. In the terminal type ```javac -source 17 -target 17 Config.java``` (The command doesn't output anything unless it errors) after that close the command prompt there should be a file that says ```Config.class```
+5. In the terminal (Command Prompt) type ```javac -source 17 -target 17 Config.java``` (The command doesn't output anything unless it errors) after that close the command prompt there should be a file that says ```Config.class```
 6. Open the file in notepad and copy all the data
 7. go to your mods folder and open the mod file with the winrar or the zip manager you are using
 8. Go to ```\net\nikev2\nikev23``` for people who don't understand it click on the folder net then click on nikev2 then nikev23
