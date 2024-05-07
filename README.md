@@ -1,4 +1,4 @@
-### I was rejected by modrinth sand curseforge so theres no gallary
+### I was rejected by modrinth and curseforge so theres no gallary
 ### Note this is fabric only
 
 ### Main Description
